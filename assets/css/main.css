@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 
 /*
 	Story by HTML5 UP
@@ -1681,7 +1682,8 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/*font-family: "Source Sans Pro", Helvetica, sans-serif;*/
+		font-family: 'Shadows Into Light', cursive;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
