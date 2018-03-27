@@ -4676,7 +4676,7 @@
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			width: 65%;
+			width: 50%;
 			max-width: 64rem;
 			margin: 0 auto;
 		}
@@ -4690,7 +4690,7 @@
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			width: 35%;
+			width: 50%;
 			min-width: 25rem;
 			border-radius: 0;
 		}
