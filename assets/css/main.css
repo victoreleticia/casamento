@@ -5,7 +5,7 @@
 /**/
 
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, blockquote,
+iframe, h2, h3, h4, h5, h6, blockquote,
 pre, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -20,17 +20,27 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	/*font-family: 'Tangerine', cursive;*/
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
-	p, a{
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-size: 100%;
-		/*font: inherit;*/
-		font-family: 'Lora', serif;
-		vertical-align: baseline;}
+p, a{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	/*font: inherit;*/
+	font-family: 'Lora', serif;
+	vertical-align: baseline;
+}
+
+h1{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: 'Tangerine', cursive;
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
